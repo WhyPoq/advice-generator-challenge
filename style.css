@@ -94,7 +94,7 @@ button{
     transform: translate(0, -50%);
 
     width: min(50rem, 20%);
-    aspect-ratio: 1 / 1;
+    padding-top: min(50rem, 20%);
 
     padding: min(17rem, 6%);
     border-radius: 50%;
